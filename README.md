@@ -5,11 +5,18 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Foysal-001&theme=github_dark)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Foysal-001&theme=github_dark&utcOffset=8)
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Foysal-001&theme=github_dark)
 
-![Foysal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=Foysal's%20GitHub%20Stats)
+<div align="center">
+  
+  ### GitHub Grade
+
+  <img src="https://progress-bar.dev/65/?title=C+&color=6f42c1&width=150" alt="Grade C+">
 
 </div>
+
 
 
 ### 🚀 Most Used Languages:
