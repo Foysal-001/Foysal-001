@@ -11,10 +11,6 @@
 
 <div align="center">
   
-  ### GitHub Grade
-
-  <img src="https://progress-bar.dev/65/?title=C+&color=6f42c1&width=150" alt="Grade C+">
-
 </div>
 
 
