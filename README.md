@@ -19,6 +19,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foysal-001&layout=compact&theme=dark)
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Foysal-001&theme=github)
+![Foysal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Foysal-001&show_icons=true&theme=radical)
+
 
 
