@@ -19,5 +19,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foysal-001&layout=compact&theme=dark)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Foysal-001&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
