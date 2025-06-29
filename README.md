@@ -5,7 +5,7 @@
 
 <p align="center">
   <!-- ✨ Typing Intro -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Aqua;Competitive+Programmer;Open+Source+Contributor;Lover+of+Clean+Code+%26+Design" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Foysal;Competitive+Programmer;Open+Source+Contributor;Lover+of+Clean+Code+%26+Design" />
   <br><br>
 
   <!-- 🔥 GitHub Streak -->
