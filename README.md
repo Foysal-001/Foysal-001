@@ -16,8 +16,6 @@
 
 
 ### 🚀 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foysal-001&layout=compact&theme=dark)
-
 
 ![Foysal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Foysal-001&show_icons=true&theme=radical)
 
