@@ -18,9 +18,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Foysal-001&theme=github-compact&hide_border=true" alt="Contribution Graph" />
   <br><br>
 
-  <!-- 🧠 Dev Metrics -->
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/github-metrics.svg" />
-
   <br><br>
 
   <!-- 💡 Programming Quote -->
