@@ -7,7 +7,7 @@
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Foysal-001&theme=github_dark)
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Foysal-001&theme=github_dark&utcOffset=8)
-![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Foysal-001&theme=github_dark)
+
 
 <div align="center">
   
@@ -16,7 +16,7 @@
 
 
 ### 🚀 Most Used Languages:
-
+![Foysal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Foysal-001&show_icons=true&theme=radical)
 
 
 
