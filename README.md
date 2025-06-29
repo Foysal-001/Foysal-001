@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Foysal;Competitive+Programmer;Open+Source+Contributor;Lover+of+Clean+Code+%26+Design" />
   <br><br>
 
-
-
   <!-- 📊 Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foysal-001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br><br>
@@ -18,15 +16,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Foysal-001&theme=github-compact&hide_border=true" alt="Contribution Graph" />
   <br><br>
 
-  <br><br>
-  
-
-
-
-
-
-  ![Foysal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Foysal-001&show_icons=true&theme=radical)
-
+  <!-- 📊 GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Foysal-001&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
 
