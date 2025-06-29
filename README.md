@@ -19,16 +19,16 @@
   <br><br>
 
   <br><br>
-
-  <!-- 💡 Programming Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  
 </p>
 
 
 
 
-![Foysal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Foysal-001&show_icons=true&theme=radical)
+<p align = "center">
 
+  ![Foysal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Foysal-001&show_icons=true&theme=radical)
 
+</p>
 
 
