@@ -8,9 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Foysal;Competitive+Programmer;Open+Source+Contributor;Lover+of+Clean+Code+%26+Design" />
   <br><br>
 
-  <!-- 🔥 GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Foysal-001&theme=calm&hide_border=true" alt="GitHub Streak" />
-  <br><br>
+
 
   <!-- 📊 Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foysal-001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
@@ -21,7 +19,8 @@
   <br><br>
 
   <!-- 🧠 Dev Metrics -->
-  <img src="https://metrics.lecoq.io/Foysal-001?template=classic&config.timezone=Asia%2FDhaka" alt="Dev Metrics" />
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/github-metrics.svg" />
+
   <br><br>
 
   <!-- 💡 Programming Quote -->
